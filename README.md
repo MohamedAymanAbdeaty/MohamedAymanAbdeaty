@@ -15,10 +15,7 @@ I am an analytical AI Engineer specializing in production-grade ML systems, RAG 
 * **Cloud & DevOps**: AWS (Bedrock, Aurora PostgreSQL, S3), Azure Container Apps, Docker, Terraform
 * **Backend**: Laravel, Node.js, RESTful APIs, MySQl
 
-### 🚀 Featured Projects
-* **AWS Intelligent Query System**: A production-grade RAG retrieval system built on AWS Bedrock and Aurora Serverless v2 with pgvector, fully deployed via Terraform for sub-second query responses
-* **YouTube Video Q&A Assistant**: An LLM-powered Streamlit app that chunks, embeds, and retrieves transcript segments to answer questions with minimal hallucinations, containerized and scaled on Azure
-* **Heart Disease Diagnostic Classifier**: A fine-tuned Logistic Regression and Random Forest model achieving 88% accuracy while critically reducing false negatives for medical diagnostics
+
 
 ### 📫 Let's Connect
 * **LinkedIn**: [mohamed-ayman-abdelaty](https://linkedin.com/in/mohamed-ayman-abdelaty)
